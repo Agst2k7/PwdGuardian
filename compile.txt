@@ -1,0 +1,1 @@
+gcc main.c ./utils/encrypt/aes.c ./utils/encrypt/kdf.c ./utils/file_handler/fileHandler.c ./utils/vault/vault.c ./utils/vault/session.c ./utils/CLI/CLI.c ./utils/CLI/inputs.c -o programa -largon2 -lcrypto
