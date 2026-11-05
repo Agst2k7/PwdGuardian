@@ -1,3 +1,4 @@
+[🇧🇷 Português](README.pt-BR.md) | 🇺🇸 English
 # PwdGuardian
 
 **PwdGuardian** is a command-line password manager written in C. It provides encrypted local storage for credentials, using modern cryptographic algorithms to protect sensitive information.
