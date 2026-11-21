@@ -1,1 +1,1 @@
-sudo pacman -S cmake gcc openssl libargon2 pkgconf
+sudo pacman -S cmake gcc openssl argon2 pkgconf
